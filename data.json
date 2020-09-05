@@ -1,0 +1,126 @@
+{
+    "comics": [
+        {
+            "id": "1",
+            "name": "#1: Stonks",
+            "description": " The first in my new series! ",
+            "date-created": "2-16-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series1.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries1.html"
+        },
+
+        {
+            "id": "2",
+            "name": " #2: Dragons are(n't) real!",
+            "description": "Inspired by a fight multiple of my friends had. It was about Dragons and Komodo Dragons.",
+            "date-created": "2-15-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series2.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries2.html"
+        },
+        {
+            "id": "3",
+            "name": "#3: Pun King!",
+            "description": "Idk...",
+            "date-created": "3-5-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series3.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries3.html"
+        },
+        {
+            "id": "4",
+            "name": "#4: Jumping on Trampoline!",
+            "description": "Never Forget the \"the\"!",
+            "date-created": "3-5-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series4.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries4.html"
+        },
+        {
+            "id": "5",
+            "name": "#5: Hide and Seek!",
+            "description": "When you aren't found within an hour, you should reveal yourself!!!",
+            "date-created": "3-11-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series5.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries5.html"
+        },
+        {
+            "id": "6",
+            "name": "#6: Go Fish!",
+            "description": "Got this idea when I was watching Phinocio.",
+            "date-created": "3-18-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series6.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries6.html"
+        },
+        {
+            "id": "7",
+            "name": "#7: Fork Math!",
+            "description": "I used a special math formula to get this, I don't think you have heard of this, it is called a calculator.",
+            "date-created": "3-25-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series7.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries7.html"
+        },
+        {
+            "id": "8",
+            "name": "#8: The Dragon Meeting!",
+            "description": "WHAT I THOUGHT IT WAS A TEA PARTY WHAT A SCAM!!!",
+            "date-created": "4-12-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series8.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries8.html"
+        },
+        {
+            "id": "9",
+            "name": "#9: Skimming Through a Book!",
+            "description": "We all do this, but with our eyes!",
+            "date-created": "4-14-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series9.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries9.html"
+        },
+        {
+            "id": "10",
+            "name": "#10: dogge",
+            "description": "The Humane Society is watching for people like him.... lol",
+            "date-created": "4-14-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series10.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries10.html"
+        },
+        {
+            "id": "11",
+            "name": "#11: Light Speed",
+            "description": "Based on Star Wars ngl...",
+            "date-created": "4-15-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series11.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries11.html"
+        },
+        {
+            "id": "12",
+            "name": "#12: Blimey",
+            "description": "BLIND ME!!!",
+            "date-created": "4-16-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series12.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries12.html"
+        },
+        {
+            "id": "13",
+            "name": "#13: Snake Bite",
+            "description": "Walk it off!",
+            "date-created": "4-16-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series13.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries13.html"
+        },
+        {
+            "id": "14",
+            "name": "#14: Overkill",
+            "description": "My friend made their own version of this.",
+            "date-created": "5-1-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series14.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries14.html"
+        },
+        {
+            "id": "15",
+            "name": "#15: Shopping",
+            "description": "WHY SPOON, WHY!!!!!!!!!!",
+            "date-created": "7-15-2020",
+            "image-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/Untitled%20Comic%20series15.png",
+            "webpage-link": "https://moonstonestudios.art/html/comics/untitled%20comic%20series/html/untitledcomicseries15.html"
+        }
+
+    ]
+}
